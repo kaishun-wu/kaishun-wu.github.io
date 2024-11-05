@@ -90,8 +90,8 @@
   }
 
   img {
-    max-width: 175px;
-    border-radius: 50%;
+    max-width: 220px;
+    // border-radius: 50%;
 
     @include breakpoint($large) {
       padding: 5px;
@@ -237,10 +237,6 @@
     @include breakpoint($large) {
       display: none;
     }
-  }
-
-  li {
-    white-space: nowrap;
   }
 
   a {
