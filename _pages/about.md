@@ -1,49 +1,41 @@
 ---
 permalink: /
-title: "Academic Pages is a ready-to-fork GitHub Pages template for academic personal websites"
+title: ""
 author_profile: true
-redirect_from: 
+redirect_from:
   - /about/
   - /about.html
 ---
+<!-- <p align="justify">
+<b>Kaishun WU (伍楷舜)</b> is the Associate Vice President of the <a href="https://www.hkust-gz.edu.cn">Hong Kong University of Science and Technology (Guangzhou)</a>, dual-appointed Professor of the <a href="https://www.hkust-gz.edu.cn/academics/hubs-and-thrust-areas/information-hub/data-science-and-analytics/">Data Science and Analytics</a> and <a href="https://www.hkust-gz.edu.cn/academics/hubs-and-thrust-areas/information-hub/internet-of-things/">Internet of Things</a> domains at the <a href="https://www.hkust-gz.edu.cn/academics/hubs-and-thrust-areas/information-hub/">Information Hub</a>, Director of the Guangdong Key Laboratory of Ubiquitous Internet of Things with Cross-Integration of Communication, Sensing, and Computing, Director of the Guangdong Engineering Technology Research Center for Intelligent Bio-Information Perception and Computing, and Leader of the Guangdong Natural Science Foundation Research Team and Guangdong University Innovation Team. He also serves as the Director of the Shenzhen Key Laboratory of Wearable Internet of Things Intelligent Perception and Computing. Dr. Wu is an IEEE/IET/AAIA Fellow, recipient of the State Council Special Allowance, a National Leading Talent, a National Ten-Thousand Talent, a National Young Distinguished Expert, a New Century Excellent Talent in Education, a Pearl River Scholar Distinguished Professor, and a Guangdong Leading Talent in Technological Innovation. He has published over 260 papers in major international academic journals and conferences, and holds over 130 authorized Chinese and foreign invention patents. His pioneering work in ubiquitous wireless intelligent sensing ranks first globally in citation frequency for the past decade on Google Scholar, Microsoft Academic, and IEEE Xplore under the theme of device-free sensing. In Microsoft Academic's ranking of top authors in device-free sensing over the past decade, he ranks first globally. A representative paper published in the CCF A-class journal, IEEE Transactions on Mobile Computing, ranks first in citations among over 2000 papers published in the last decade. His research achievements have won the First Prize of Guangdong Science and Technology Award (Natural Science) in 2014 (ranked 1), the Second Prize of Guangdong Science and Technology Award (Technical Invention) in 2016 (ranked 1), the First Prize of Guangdong Science and Technology Award (Technological Progress) in 2017 (ranked 1), the Second Prize of the Ministry of Education Natural Science Award in 2018 (ranked 1), the Guangdong Patent Excellence Award in 2021 (ranked 1), the China Patent Excellence Award in 2022 (ranked 1), and the Guangdong Youth Technological Innovation Award in 2022. He has also received six Best Paper Awards at renowned conferences. Dr. Wu has been honored with the Guangdong Ding Ying Science and Technology Award, the Guangdong Outstanding Inventor Award, the Ministry of Education Huo Yingdong Young Teacher Award, the IEEE Communications Society Asia-Pacific Outstanding Young Researcher Award, the Hong Kong Young Scientist Award, and has been awarded the title of National Distinguished Middle-Aged and Young Expert, the National May 1st Labor Medal, and the Guangdong Youth May 4th Medal.
+</p> -->
 
-This is the front page of a website that is powered by the [Academic Pages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the respository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. You can fork [this repository](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and markdown files, add your own PDFs and other content, and have your own site for free, with no ads! An older version of this template powers my own personal website at [stuartgeiger.com](http://stuartgeiger.com), which uses [this Github repository](https://github.com/staeiou/staeiou.github.io).
 
-A data-driven personal website
-======
-Like many other Jekyll-based GitHub Pages templates, Academic Pages makes you separate the website's content from its form. The content & metadata of your website are in structured markdown files, while various other files constitute the theme, specifying how to transform that content & metadata into HTML pages. You keep these various markdown (.md), YAML (.yml), HTML, and CSS files in a public GitHub repository. Each time you commit and push an update to the repository, the [GitHub pages](https://pages.github.com/) service creates static HTML pages based on these files, which are hosted on GitHub's servers free of charge.
+<p align="justify">
+Kaishun WU, Associate Vice President (Research) at the <a href="https://www.hkust-gz.edu.cn">Hong Kong University of Science and Technology (Guangzhou)</a>, and a joint Professor in the <a href="https://www.hkust-gz.edu.cn/academics/hubs-and-thrust-areas/information-hub/data-science-and-analytics/">Data Science and Analytics Thrust</a> and the <a href="https://www.hkust-gz.edu.cn/academics/hubs-and-thrust-areas/information-hub/internet-of-things/">Internet of Things Thrust</a> of the <a href="https://www.hkust-gz.edu.cn/academics/hubs-and-thrust-areas/information-hub/">Information Hub</a>, is an IEEE/IET/AAIA Fellow. He is the Director of the Guangdong Provincial Key Laboratory of Integrated Communication, Sensing and Computation for Ubiquitous Internet of Things, the Director of the Guangdong Provincial Engineering Technology Research Center of Intelligent Bioinformation Perception and Computing, the leader of the Guangdong Provincial Natural Science Foundation Research Team and the Guangdong Provincial Innovation Team, a member of the Guangdong Provincial Committee of the CPPCC, and the Deputy Chairman of the Guangzhou Association for Science and Technology.
+</p>
 
-Many of the features of dynamic content management systems (like Wordpress) can be achieved in this fashion, using a fraction of the computational resources and with far less vulnerability to hacking and DDoSing. You can also modify the theme to your heart's content without touching the content of your site. If you get to a point where you've broken something in Jekyll/HTML/CSS beyond repair, your markdown files describing your talks, publications, etc. are safe. You can rollback the changes or even delete the repository and start over -- just be sure to save the markdown files! Finally, you can also write scripts that process the structured data on the site, such as [this one](https://github.com/academicpages/academicpages.github.io/blob/master/talkmap.ipynb) that analyzes metadata in pages about talks to display [a map of every location you've given a talk](https://academicpages.github.io/talkmap.html).
+<p align="justify">
+伍楷舜，<a href="https://www.hkust-gz.edu.cn">香港科技大学（广州）</a>协理副校长（研究），<a href="https://www.hkust-gz.edu.cn/academics/hubs-and-thrust-areas/information-hub/">信息枢纽</a><a href="https://www.hkust-gz.edu.cn/academics/hubs-and-thrust-areas/information-hub/data-science-and-analytics/">数据科学与分析学域</a>和<a href="https://www.hkust-gz.edu.cn/academics/hubs-and-thrust-areas/information-hub/internet-of-things/">物联网学域</a>双聘教授，IEEE/IET/AAIA Fellow，广东省通感算交叉融合泛在物联网重点实验室主任，广东省智能生物信息感知与计算工程技术研究中心主任，广东省自然科学基金研究团队、广东省高校创新团队带头人，广东省政协委员，广州市科学技术协会副主席。
+</p>
 
-Getting started
-======
-1. Register a GitHub account if you don't have one and confirm your e-mail (required!)
-1. Fork [this repository](https://github.com/academicpages/academicpages.github.io) by clicking the "fork" button in the top right. 
-1. Go to the repository's settings (rightmost item in the tabs that start with "Code", should be below "Unwatch"). Rename the repository "[your GitHub username].github.io", which will also be your website's URL.
-1. Set site-wide configuration and create content & metadata (see below -- also see [this set of diffs](http://archive.is/3TPas) showing what files were changed to set up [an example site](https://getorg-testacct.github.io) for a user with the username "getorg-testacct")
-1. Upload any files (like PDFs, .zip files, etc.) to the files/ directory. They will appear at https://[your GitHub username].github.io/files/example.pdf.  
-1. Check status by going to the repository settings, in the "GitHub pages" section
+## Research Interests:
 
-Site-wide configuration
-------
-The main configuration file for the site is in the base directory in [_config.yml](https://github.com/academicpages/academicpages.github.io/blob/master/_config.yml), which defines the content in the sidebars and other site-wide features. You will need to replace the default variables with ones about yourself and your site's github repository. The configuration file for the top menu is in [_data/navigation.yml](https://github.com/academicpages/academicpages.github.io/blob/master/_data/navigation.yml). For example, if you don't have a portfolio or blog posts, you can remove those items from that navigation.yml file to remove them from the header. 
+- Non-contact Sensing
+- Pervasive Computing
+- Flexible Sensor Material Manufacturing
+- Fusion of Human-Machine-Things
+- Edge Computing and Large Language Model for Health
 
-Create content & metadata
-------
-For site content, there is one markdown file for each type of content, which are stored in directories like _publications, _talks, _posts, _teaching, or _pages. For example, each talk is a markdown file in the [_talks directory](https://github.com/academicpages/academicpages.github.io/tree/master/_talks). At the top of each markdown file is structured data in YAML about the talk, which the theme will parse to do lots of cool stuff. The same structured data about a talk is used to generate the list of talks on the [Talks page](https://academicpages.github.io/talks), each [individual page](https://academicpages.github.io/talks/2012-03-01-talk-1) for specific talks, the talks section for the [CV page](https://academicpages.github.io/cv), and the [map of places you've given a talk](https://academicpages.github.io/talkmap.html) (if you run this [python file](https://github.com/academicpages/academicpages.github.io/blob/master/talkmap.py) or [Jupyter notebook](https://github.com/academicpages/academicpages.github.io/blob/master/talkmap.ipynb), which creates the HTML for the map based on the contents of the _talks directory).
+<div align="center">
+  <img src="/images/research.jpg">
+</div>
 
-**Markdown generator**
+<!-- Internet of Things, Wireless Networks, Wireless Communication, Mobile and Ubiquitous Computing, Pervasive Computing, Big Data, Smart e-Health, Industrial Networks.
 
-I have also created [a set of Jupyter notebooks](https://github.com/academicpages/academicpages.github.io/tree/master/markdown_generator
-) that converts a CSV containing structured data about talks or presentations into individual markdown files that will be properly formatted for the Academic Pages template. The sample CSVs in that directory are the ones I used to create my own personal website at stuartgeiger.com. My usual workflow is that I keep a spreadsheet of my publications and talks, then run the code in these notebooks to generate the markdown files, then commit and push them to the GitHub repository.
+My recent research focuses on four main areas:
 
-How to edit your site's GitHub repository
-------
-Many people use a git client to create files on their local computer and then push them to GitHub's servers. If you are not familiar with git, you can directly edit these configuration and markdown files directly in the github.com interface. Navigate to a file (like [this one](https://github.com/academicpages/academicpages.github.io/blob/master/_talks/2012-03-01-talk-1.md) and click the pencil icon in the top right of the content preview (to the right of the "Raw | Blame | History" buttons). You can delete a file by clicking the trashcan icon to the right of the pencil icon. You can also create new files or upload files by navigating to a directory and clicking the "Create new file" or "Upload files" buttons. 
-
-Example: editing a markdown file for a talk
-![Editing a markdown file for a talk](/images/editing-talk.png)
-
-For more info
-------
-More info about configuring Academic Pages can be found in [the guide](https://academicpages.github.io/markdown/). The [guides for the Minimal Mistakes theme](https://mmistakes.github.io/minimal-mistakes/docs/configuration/) (which this theme was forked from) might also be helpful.
+* **Intelligent Sensing and Applications:** device-free sensing of humans, acoustic sensing, vibration sensing
+* **AI for Wireless:** bringing AI to wireless networking, mobile cloud computing and edge computing, Federated Learning and Wireless Networks, AI for Wireless Resource Management and Optimization
+* **IoT + AI Systems and Applications:** building Internet of Things (IoT) systems with the AI technology to deepen and broaden the ways that we sense the physical world and enable innovative human-computer interactions
+* Data Science from Mobile and Ubiquitous Computing Perspectives with Applications to Smart Cities -->
