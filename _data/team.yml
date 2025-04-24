@@ -29,6 +29,13 @@ Ph.D Students:
     admission: "2021 Fall ~"
     homepage: "https://island520.github.io/"
 
+  - name: "Qipeng XIE"
+    name_cn: "谢启鹏"
+    avatar: "qipengxie.jpg"
+    research_direction: "Large Model Security, Internet of Things (IoT) Security"
+    admission: "2021 Fall ~"
+    homepage:
+
   - name: "Yongzhi HUANG"
     name_cn: "黄勇志"
     avatar: "yongzhihuang.jpg"
@@ -161,6 +168,13 @@ MPhil Students:
     name_cn: "潘梓沛"
     avatar: "zipeipan.jpg"
     research_direction: "Motion Recognition based on Millimeter Wave Radar"
+    admission: "2023 Fall ~"
+    homepage:
+
+  - name: "Cekai WENG"
+    name_cn: "翁策楷"
+    avatar: "cekaiweng.jpg"
+    research_direction: "Multi-agent Systems, NSL (Natural Language to Structured Language), Synthetic Data Augmentation, Interactive Large Language Models"
     admission: "2023 Fall ~"
     homepage:
 

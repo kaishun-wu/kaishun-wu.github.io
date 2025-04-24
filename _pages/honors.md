@@ -9,39 +9,41 @@ author_profile: true
 
 ## Community Recognition
 
-1.	2023 Most Cited Chinese Researchers, 2024. (published by Elsevier)
-3.	The World's Top 2% of Scientists of "Lifetime Scientific Influence Ranking", 2023. (published by Stanford University)
-4.	The World's Top 2% of Scientists of "2022 Scientific Impact Ranking", 2023. (published by Stanford University)
-5.	Leader of Guangdong Normal University Innovative Research Team: Guangdong Provincial Innovation Team of Integrated Communication,Sensing and Computation for Ubiquitous Internet of Things, 2023.（广东省普通高校创新团队带头人: 广东省通感算交叉融合泛在物联网创新团队）
-6.	2022 Most Cited Chinese Researchers, 2023.(published by Elsevier)
-7.	IEEE Fellow, 2022.
-8.	2021 Most  Cited Chinese Researchers, 2022. (published by Elsevier)
-9.	The World's Top 2% Scientists, 2022 (published by Stanford University)
-10.	The World's Top 2% Scientists, 2021 (published by Stanford University)
-12.	National May 1 Labor Medal, 2021 (全国五一劳动奖章,国家级奖励，深圳唯一获奖的教育、科研工作者)
-13.	2020 Most  Cited Chinese Researchers, 2021. (published by Elsevier)
-14.	State Council Special Allowance Expert for Great Achievements of Nature Science Development in China, 2020.  (中华人民共和国国务院颁发政府特殊津贴)
-15.	Shenzhen National Leading Talents, 2020.（深圳市国家级领军人才）
-16.	The World’s Top 2% Scientists, 2020 (published by Stanford University)
-18.	Fok Ying Tung Education Foundation Excellent Young Teacher Award, 2019. (教育部霍英东教育基金会第十七届高等院校青年教师奖)
-19.	Guangdong Excellent Inventor Prize, 2019. (2019年广东杰出发明人奖,全省10人)
-20.	National Hundred-Thousand-Ten Thousand Talents Program/National Young and Middle-Aged Experts with Outstanding Contributions, 2019. (国家百千万人才工程/国家有突出贡献中青年专家)
-21.	Fellow, The Institution of Engineering and Technology (IET), for contributions to wireless communication and mobile networks, 2018.
-22.	Guangdong Youth May Fourth Medal, 2019.  (广东省青年五四奖章)
-23.	Guangdong May 1 Labor Prize, 2019.  (广东省五一劳动奖章)
-24.	Leader of Guangdong Natural Science Foundation Research Team：Wireless Big Data and Future Network, 2017.（广东省自然科学基金研究团队带头人：无线大数据与未来网络团队)
-25.	Shenzhen Young Scientist Award, 2017. (深圳市青年科技奖)
-26.	Shenzhen Model Worker, 2017. (深圳市劳动模范)
-27.	China Institute of Communications Young Scientist Award, 2017. (中国通信学会首届青年科技奖,全国每两年一次，每次10人)
-28.	The Ding-Ying Science and Technology Award, 2015. (广东省丁颖科技奖，全省每两年评一次，每次20人，广东省科技人物最高奖)
-29.	Guangdong Leading Talents in Science and Technology Innovation, 2015. (广东省科技创新领军人才)
-30.	Guangdong Pearl River Scholar Professor of Higher Education, 2015. (广东省珠江学者特聘教授）
-31.	National 1000 Talent Plan for Young Researchers, 2014. (中组部青年千人计划)
-32.	Guangdong Young Talents in Science and Technology Innovation 2014. (广东省科技创新青年拔尖人才)
-33.	IEEE ComSoc Asia-Pacific Outstanding Young Researcher Award, 2014.
-34.	New Century Excellent Talents in University, Ministry of Education, 2013. (教育部新世纪优秀人才)
-35.	Hong Kong Young Scientist Award, 2012. (total 4 award winners in Hong Kong, the only one in Physical/Mathematica)
-36.	Guangdong Natural Science Funds for Distinguished Young Scholar, 2012. (首届广东省杰青） (16/337)
+1. 2025 IEEE INFOCOM Test of Time Paper Awards, 2025.(2025 IEEE INFOCOM 时间检验奖)
+2. 2024 Most Cited Chinese Researchers, 2025. (published by Elsevier)
+2. 2023 Most Cited Chinese Researchers, 2024. (published by Elsevier)
+3. The World's Top 2% of Scientists of "Lifetime Scientific Influence Ranking", 2023. (published by Stanford University)
+4. The World's Top 2% of Scientists of "2022 Scientific Impact Ranking", 2023. (published by Stanford University)
+5. Leader of Guangdong Normal University Innovative Research Team: Guangdong Provincial Innovation Team of Integrated Communication,Sensing and Computation for Ubiquitous Internet of Things, 2023.（广东省普通高校创新团队带头人: 广东省通感算交叉融合泛在物联网创新团队）
+6. 2022 Most Cited Chinese Researchers, 2023.(published by Elsevier)
+7. IEEE Fellow, 2022.
+8. 2021 Most  Cited Chinese Researchers, 2022. (published by Elsevier)
+9. The World's Top 2% Scientists, 2022 (published by Stanford University)
+10. The World's Top 2% Scientists, 2021 (published by Stanford University)
+11. National May 1 Labor Medal, 2021 (全国五一劳动奖章,国家级奖励，深圳唯一获奖的教育、科研工作者)
+12. 2020 Most  Cited Chinese Researchers, 2021. (published by Elsevier)
+13. State Council Special Allowance Expert for Great Achievements of Nature Science Development in China, 2020.  (中华人民共和国国务院颁发政府特殊津贴)
+14. Shenzhen National Leading Talents, 2020.（深圳市国家级领军人才）
+15. The World’s Top 2% Scientists, 2020 (published by Stanford University)
+16. Fok Ying Tung Education Foundation Excellent Young Teacher Award, 2019. (教育部霍英东教育基金会第十七届高等院校青年教师奖)
+17. Guangdong Excellent Inventor Prize, 2019. (2019年广东杰出发明人奖,全省10人)
+18. National Hundred-Thousand-Ten Thousand Talents Program/National Young and Middle-Aged Experts with Outstanding Contributions, 2019. (国家百千万人才工程/国家有突出贡献中青年专家)
+19. Fellow, The Institution of Engineering and Technology (IET), for contributions to wireless communication and mobile networks, 2018.
+20. Guangdong Youth May Fourth Medal, 2019.  (广东省青年五四奖章)
+21. Guangdong May 1 Labor Prize, 2019.  (广东省五一劳动奖章)
+22. Leader of Guangdong Natural Science Foundation Research Team：Wireless Big Data and Future Network, 2017.（广东省自然科学基金研究团队带头人：无线大数据与未来网络团队)
+23. Shenzhen Young Scientist Award, 2017. (深圳市青年科技奖)
+24. Shenzhen Model Worker, 2017. (深圳市劳动模范)
+25. China Institute of Communications Young Scientist Award, 2017. (中国通信学会首届青年科技奖,全国每两年一次，每次10人)
+26. The Ding-Ying Science and Technology Award, 2015. (广东省丁颖科技奖，全省每两年评一次，每次20人，广东省科技人物最高奖)
+27. Guangdong Leading Talents in Science and Technology Innovation, 2015. (广东省科技创新领军人才)
+28. Guangdong Pearl River Scholar Professor of Higher Education, 2015. (广东省珠江学者特聘教授）
+29. National 1000 Talent Plan for Young Researchers, 2014. (中组部青年千人计划)
+30. Guangdong Young Talents in Science and Technology Innovation 2014. (广东省科技创新青年拔尖人才)
+31. IEEE ComSoc Asia-Pacific Outstanding Young Researcher Award, 2014.
+32. New Century Excellent Talents in University, Ministry of Education, 2013. (教育部新世纪优秀人才)
+33. Hong Kong Young Scientist Award, 2012. (total 4 award winners in Hong Kong, the only one in Physical/Mathematica)
+34. Guangdong Natural Science Funds for Distinguished Young Scholar, 2012. (首届广东省杰青） (16/337)
 
 ## Award for Scientific Research Projects
 
