@@ -26,7 +26,3 @@ Kaishun WU, Associate Vice President (Research) at the <a href="https://www.hkus
 <div align="center">
   <img src="/images/research.jpg">
 </div>
-
-## For more information
-
-More info about me can be found in [CV](./files/Full_CV_Kaishun.pdf).
