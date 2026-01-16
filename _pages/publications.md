@@ -19,6 +19,7 @@ My papers have been well cited and followed up by many international researchers
 
 ## Referred International Conference Papers
 
+- [[CHI&#39;26](https://chi2026.acm.org/)] Yuying Wan, Xin Tong, **Kaishun Wu**, “ATTENPlay: A Game-Based Attention Network Test for Autistic Children”, Proceedings of the 2026 CHI Conference on Human Factors in Computing Systems​​ (***CHI***), April 13-17, 2026, Barcelona, Spain.
 - [[AAAI&#39;26](https://aaai.org/conference/aaai/)] Ziyang Liu, Siyuan He, Feng Liang, Chang Huang, Shuxin Zhong, **Kaishun Wu**, “mmJEPA-ECG: Cross-Posture Robust Contactless Electrocardiogram Monitoring via Millimeter Wave Radar Sensing”, Proceedings of the 40th AAAI Conference on Artificial Intelligence (***AAAI***), January 22 - 25, 2026, Singapore. (Oral)
 - [[AAAI&#39;26](https://aaai.org/conference/aaai/)] Chang Huang, Zhou Zhexin, Jun Ma, Jiatong Shen, Peixuan Xiong, Huayong Yang, **Kaishun Wu**, “DRM-Net: Explicit Residual Modelling with Subaquatic Multi-Scale Context Fusion for Underwater Image Enhancement”, Proceedings of the 40th AAAI Conference on Artificial Intelligence (***AAAI***),January 22 - 25, 2026, Singapore.
 - [[WWW&#39;26](https://www2026.thewebconf.org/)] Shuxin Zhong, Hongyu Lin, Yan Fang, Jun Chen, **Kaishun Wu**, “LEAP: LLM-Enhanced E-commerce Demand Prediction under Emergent Events”, Proceedings of the ACM on Web Conference 2026 (***WWW***), April 13 – 17, 2026, Dubai, United Arab Emirates.
