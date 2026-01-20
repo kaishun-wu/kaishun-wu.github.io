@@ -1,15 +1,15 @@
 Postdoc:
-  - name: "Shuxin Zhong"
-    admission: "2024.09 ~ Present"
-    education: "B.S. Shenzhen University, Ph.D. Rutgers University"
-    publications: ""
-    awards: ""
-    homepage:
-
   - name: "Usman Saleh Toro"
     admission: "2024.09 ~ Present"
     education: "B.S. University of Bradford, M.S. University of Nottingham, Ph.D. Shenzhen University"
     publications: "IEEE TGCN21, IEEE TVT23, IEEE NETWORK 22, IEEE COMMAG 23"
+    awards: ""
+    homepage:
+
+  - name: "Shuxin Zhong"
+    admission: "2024.12 ~ Present"
+    education: "B.S. Shenzhen University, Ph.D. Rutgers University"
+    publications: ""
     awards: ""
     homepage:
 
