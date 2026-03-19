@@ -59,11 +59,13 @@ author_profile: true
 
 ## Best Paper/Poster Awards
 
-1. Best Paper Honorable Mention, In Proceedings of the 23rd ACM Conference on Embedded Networked Sensor Systems (SenSys), 2025
-2. Best Poster Award, In Proceedings of the ACM on Interactive, Mobile, Wearable and Ubiquitous Technologies (IMWUT/UbiComp), 2021
-3. Best Paper Award: IEEE International Conference on Parallel and Distributed Systems (IEEE ICPADS’2020)
-4. Best Paper Award: IEEE International Conference on Parallel and Distributed Systems (IEEE ICPADS’2019)
-5. Best Paper Award: International Conference on Sensing, Communication and Networking (IEEE SECON’2018, 1/211 submissions)
-6. Best Paper Award: IEEE International Conference on Mobile Ad-Hoc and Smart Systems (MASS 2014)
-7. Best Paper Award: IEEE International Conference on Parallel and Distributed Systems. (IEEE ICPADS’2012, 1/294 submissions)
-8. Best Paper Award: IEEE Global Communications Conference. (IEEE Globecom’2012, 15/2560 submissions)
+1. Mark Weiser Best Paper Award, In The 24th International Conference on Pervasive Computing and Communications (PerCom 2026), 2026
+2. Honourable Mention Award, In Proceedings of the 2026 CHI Conference on Human Factors in Computing Systems​​ (CHI), 2026
+3. Best Paper Honorable Mention, In Proceedings of the 23rd ACM Conference on Embedded Networked Sensor Systems (SenSys), 2025
+4. Best Poster Award, In Proceedings of the ACM on Interactive, Mobile, Wearable and Ubiquitous Technologies (IMWUT/UbiComp), 2021
+5. Best Paper Award: IEEE International Conference on Parallel and Distributed Systems (IEEE ICPADS’2020)
+6. Best Paper Award: IEEE International Conference on Parallel and Distributed Systems (IEEE ICPADS’2019)
+7. Best Paper Award: International Conference on Sensing, Communication and Networking (IEEE SECON’2018, 1/211 submissions)
+8. Best Paper Award: IEEE International Conference on Mobile Ad-Hoc and Smart Systems (MASS 2014)
+9. Best Paper Award: IEEE International Conference on Parallel and Distributed Systems. (IEEE ICPADS’2012, 1/294 submissions)
+10. Best Paper Award: IEEE Global Communications Conference. (IEEE Globecom’2012, 15/2560 submissions)
