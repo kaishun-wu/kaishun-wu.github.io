@@ -8,7 +8,7 @@ Postdoc:
 
   - name: "Shuxin Zhong"
     admission: "2024.12 ~ Present"
-    education: "B.S. Shenzhen University, Ph.D. Rutgers University"
+    education: "Ph.D. Rutgers University"
     publications: ""
     awards: ""
     homepage:
@@ -22,14 +22,14 @@ Postdoc:
 
   - name: "Mengqi Chen"
     admission: "2025.11 ~ Present"
-    education: "B.S. Guangxi University for Nationalities, Ph.D. Shenzhen University"
+    # education: "Ph.D. Shenzhen University"
     publications: ""
     awards: ""
     homepage:
 
   - name: "Yandao Huang"
     admission: "2026.01 ~ Present"
-    education: "B.S. Shenzhen University, Ph.D. HKUST"
+    education: "Ph.D. HKUST"
     publications: ""
     awards: ""
     homepage: "https://island520.github.io/"
@@ -37,21 +37,21 @@ Postdoc:
 PhD Students:
   - name: "Yongzhi Huang"
     admission: "2022 Fall ~ Present"
-    education: "B.S. Shenzhen University"
+    # education: "B.S. Shenzhen University"
     publications: "MobiCom21, IMWUT25"
     awards: ""
     homepage: "https://www.huangyongzhi.com.cn/"
 
   - name: "Minghui Qiu"
     admission: "2022 Fall ~ Present"
-    education: "B.S. Shenzhen University, M.S. Shenzhen University"
+    # education: "B.S. Shenzhen University, M.S. Shenzhen University"
     publications: "IMWUT25, SECON26"
     awards: ""
     homepage: "https://orcid.org/0000-0001-8632-8282"
 
   - name: "Lin Chen"
     admission: "2022 Fall ~ Present"
-    education: "B.S. Shenzhen University, M.S. Shenzhen University"
+    # education: "B.S. Shenzhen University, M.S. Shenzhen University"
     publications: "SenSys26, PerCom26, IMWUT26"
     awards: ""
     homepage: "https://leenc.cn/"
@@ -65,14 +65,14 @@ PhD Students:
 
   - name: "Yuying Wan"
     admission: "2023 Fall ~ Present"
-    education: "B.S. Shenzhen University"
+    # education: "B.S. Shenzhen University"
     publications: "CHI26"
     awards: ""
     homepage:
 
   - name: "Yuhang Wang"
     admission: "2023 Fall ~ Present"
-    education: "B.S. Hebei Agricultural University, M.S. Shenzhen University"
+    # education: "B.S. Hebei Agricultural University, M.S. Shenzhen University"
     publications: "TMC24, WCNC24"
     awards: ""
     homepage: "https://scholar.google.com/citations?hl=en&user=a-OXhU4AAAAJ&view_op=list_works&sortby=pubdate"
@@ -86,7 +86,7 @@ PhD Students:
 
   - name: "Qianru Liao"
     admission: "2023 Fall ~ Present"
-    education: "B.S. Shenzhen University, M.S. Shenzhen University"
+    # education: "B.S. Shenzhen University, M.S. Shenzhen University"
     publications: "MobiSys22, PerCom25"
     awards: ""
     homepage:
@@ -100,14 +100,14 @@ PhD Students:
 
   - name: "Jiayi Zhao"
     admission: "2024 Fall ~ Present"
-    education: "B.S. South China Agricultural University, Information Management and Information System, M.S. Shenzhen University, Computer Technology"
+    # education: "B.S. South China Agricultural University, Information Management and Information System, M.S. Shenzhen University, Computer Technology"
     publications: "ICPADS24"
     awards: "Nov 2018        The 2018 ACM-ICPC Asia Regional Contest Jiaozuo Site 2018 Bronze Medal Nov 2018           The 2018 ACM-ICPC Asia Regional Contest Nanjing Site 2018 Bronze Medal"
     homepage:
 
   - name: "Kaixin Chen"
     admission: "2024 Fall ~ Present"
-    education: "B.S. Communication Engineering, SZU, M.S. Computer Science and Technology, SZU"
+    # education: "B.S. Communication Engineering, SZU, M.S. Computer Science and Technology, SZU"
     publications: "MobiSys25, TMC24"
     awards: "GAC Group - HKUST (GZ) Innovation Talent Development Scholarship, 2024; National Scholarship, China (the highest postgraduate recognition awards), 2023; MobiCom 2023 Travel Grant, 2023; Tencent Founder Innovation Scholarship (the top postgraduate scholarship of SZU), 2022"
     homepage: "https://scholar.google.com/citations?hl=zh-CN&user=oFyMMwoAAAAJ&view_op=list_works&sortby=pubdate"
@@ -121,7 +121,7 @@ PhD Students:
 
   - name: "Peixuan Xiong"
     admission: "2024 Fall ~ Present"
-    education: "B.S. Tiangong University"
+    # education: "B.S. Tiangong University"
     publications: "CHI 2024, Ubicomp 2025"
     awards: "2023CCF技术公益黑客马拉松大赛二等奖、2025”霞客杯“中国江阴第八届创新创业大赛(团队赛）优胜奖"
     homepage: "https://tony9811.github.io/#"
@@ -142,7 +142,7 @@ PhD Students:
 
   - name: "Cheng Luo"
     admission: "2024 Fall ~ Present"
-    education: "B.S. scau, M.S. szu"
+    # education: "B.S. scau, M.S. szu"
     publications: ""
     awards: ""
     homepage:
@@ -156,7 +156,7 @@ PhD Students:
 
   - name: "Yuanyuan Fang"
     admission: "2024 Fall ~ Present"
-    education: "B.S. Hefei university of science and technology, M.S. Chinese academy of science"
+    education: "M.S. Chinese academy of science"
     publications: ""
     awards: ""
     homepage:
@@ -191,21 +191,21 @@ PhD Students:
 
   - name: "Dongyang Chen"
     admission: "2025 Fall ~ Present"
-    education: "B.S. Business Administration, M.S. Information and Knowledge Strategy"
+    # education: "B.S. Business Administration, M.S. Information and Knowledge Strategy"
     publications: ""
     awards: ""
     homepage: "https://dongyang.crd.co/"
 
   - name: "Yunshu Wang"
     admission: "2025 Fall ~ Present"
-    education: "B.S. Shenzhen University, M.S. Shenzhen University"
+    # education: "B.S. Shenzhen University, M.S. Shenzhen University"
     publications: "IOTJ 24"
     awards: "National Scholarship in M.S."
     homepage:
 
   - name: "Zirui Huang"
     admission: "2025 Fall ~ Present"
-    education: "B.S. Fuzhou University, M.S. The Hong Kong University of Science and Technology (Guangzhou)"
+    education: "M.S. The Hong Kong University of Science and Technology (Guangzhou)"
     publications: "IEEE Sens. J."
     awards: ""
     homepage:
@@ -219,7 +219,7 @@ PhD Students:
 
   - name: "Cong Li"
     admission: "2025 Fall ~ Present"
-    education: "B.S. Shenzhen University, M.S. Shenzhen University"
+    # education: "B.S. Shenzhen University, M.S. Shenzhen University"
     publications: ""
     awards: ""
     homepage:
@@ -227,7 +227,7 @@ PhD Students:
 MPhil Students:
   - name: "Jinyu Lin"
     admission: "2024 Fall ~ Present"
-    education: "B.S. Bachelar of Engineering in EIE, Shenzhen University"
+    # education: "B.S. Bachelar of Engineering in EIE, Shenzhen University"
     publications: ""
     awards: ""
     homepage:
@@ -241,7 +241,7 @@ MPhil Students:
 
   - name: "Xiaoteng Chen"
     admission: "2025.08 ~ Present"
-    education: "B.S. BSc in Electrical Information Engineering, Guangdong University Of Technology"
+    # education: "B.S. BSc in Electrical Information Engineering, Guangdong University Of Technology"
     publications: ""
     awards: ""
     homepage:
@@ -269,14 +269,14 @@ MPhil Students:
 
   - name: "Derong Deng"
     admission: "2025.10 ~ Present"
-    education: "B.S. Electronics and Computer Engineering"
+    # education: "B.S. Electronics and Computer Engineering"
     publications: ""
     awards: ""
     homepage:
 
   - name: "Yanshan Liu"
     admission: "2026 Spring ~ Present"
-    education: "B.S. Beijing Technology and Business University"
+    # education: "B.S. Beijing Technology and Business University"
     publications: ""
     awards: ""
     homepage:
